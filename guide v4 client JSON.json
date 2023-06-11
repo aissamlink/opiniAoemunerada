@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "startapp",
-  "Banner": "startapp",
+  "Interstitial": "000",
+  "Banner": "000",
   "Native": "xxx",
-  "Rewarded": "startapp",
+  "Rewarded": "sta00rtapp",
   
   
   "main_inter": true,
@@ -28,8 +28,8 @@
   
   "rate": false,
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
   "rating_exit_popup": true,
   
@@ -44,7 +44,7 @@
   "guides": [
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
+	 "title": "USE THIS APP",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
 
@@ -54,7 +54,7 @@
 	},
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
+	 "title": "ENJOY",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
 
@@ -64,7 +64,7 @@
 	},
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
+	 "title": "OP",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
 
